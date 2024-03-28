@@ -27,16 +27,6 @@ $ composer install
 $ npm install
 
 ```
-## Instalar dependencias NODE
-```sh
-$ npm install
-
-```
-
-## Genera una Clave de Aplicación:
-```sh
-$ php artisan key:generate
-```
 
 ## Genera una Clave de Aplicación:
 ```sh
