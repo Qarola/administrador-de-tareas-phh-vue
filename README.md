@@ -1,8 +1,7 @@
 Esta es una aplicación fullstack, construida con tecnologías como: Backend: PHP-Laravel , Base de Datos Relacional: MySQL y Frontend: Vue.js y TailwindCSS para los estilos.
 
-## Back-end corra:
+## Requisitos Previos
 ```sh
-Requisitos Previos
 Asegúrese de tener instalados los siguientes requisitos antes de comenzar:
 
 PHP (versión 8.3.4)
