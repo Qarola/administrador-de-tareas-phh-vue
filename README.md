@@ -1,4 +1,4 @@
-Esta es una aplicación fullstack, construida con tecnologías como: Backend: PHP-Laravel , Base de Datos Relacional: MySQL y Frontend: Vue.js y TailwindCSS para los estilos.
+### Esta es una aplicación fullstack, construida con tecnologías como: Backend: PHP-Laravel , Base de Datos Relacional: MySQL y Frontend: Vue.js y TailwindCSS para los estilos.
 
 ## Requisitos Previos
 ```sh
@@ -60,7 +60,7 @@ MAIL_FROM_ADDRESS=correo_pruebas@midominio.com
 ```sh
 $ php artisan serve
 ```
-##Front
+## Front
 ```sh
 $ npm run serve
 ```
